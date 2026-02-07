@@ -1,0 +1,33 @@
+# Ticker da analizzare
+ticker_1: "WSPX.MI"
+ticker_2: "WNAS.MI"
+benchmark_ticker: "^NDX"  # opzionale, esempio: "^GSPC" o null
+
+# Periodo analisi
+data_inizio: "2025-01-01"
+data_fine: "2026-02-06"
+
+# Capitale e costi
+capitale_iniziale: 5000.0
+commissione_fissa: 0.0
+commissione_percentuale: 0.0
+tassa_capital_gain: 26.0
+
+# Parametri finestre
+min_giorni_finestra: 5
+max_giorni_finestra: 90
+step_giorni: 5
+sovrapposte: false
+
+# Metriche
+soglia_positiva: 0.0
+risk_free_rate: 0.0
+
+# WSPX.MI ETN SP500
+# WNAS.MI ETN Nasdaq100
+
+# SPY ETF SP500
+# QQQ ETF Nasdaq100
+
+# ^GSPC Indice SP500
+# ^NDX Indice Nasdaq100

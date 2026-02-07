@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Output generati dal tool
+output/
+
+# Claude Code
+.claude/
+
+# Conda/venv
+.conda/
+.venv/
