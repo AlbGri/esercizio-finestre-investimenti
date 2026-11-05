@@ -17,7 +17,7 @@ tassa_capital_gain: 26.0
 min_giorni_finestra: 5
 max_giorni_finestra: 90
 step_giorni: 5
-sovrapposte: false
+sovrapposte: true
 
 # Metriche
 soglia_positiva: 0.0
