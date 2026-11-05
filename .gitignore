@@ -12,3 +12,10 @@ output/
 # Conda/venv
 .conda/
 .venv/
+
+# Documenti privati (lista bianca)
+/*.md
+!/README.md
+!/CHANGELOG.md
+CLAUDE.md
+_local/
