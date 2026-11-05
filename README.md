@@ -134,3 +134,7 @@ commissione_percentuale: 0.0
 tassa_capital_gain: 26.0
 capitale_iniziale: 5000.0
 ```
+
+## Licenza
+
+[AGPL-3.0](LICENSE)
